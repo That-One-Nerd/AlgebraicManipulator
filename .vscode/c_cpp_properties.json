@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "CEdev",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/kyley/Desktop/Coding/Lib/CEdev/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "compilerPath": "C:\\Users\\kyley\\Desktop\\Coding\\Lib\\CEdev\\bin\\ez80-clang.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}

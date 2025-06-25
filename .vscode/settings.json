@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "screen.h": "c",
+        "getcsc.h": "c"
+    }
+}
